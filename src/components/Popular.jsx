@@ -55,13 +55,14 @@ function Popular() {
           } )}
           </Splide>
          </Wrapper>
-        );
+        ;
     </div>
   );
 }
 
 const Wrapper = styled.div`
   margin: 4rem 0rem;
+  text-align: center;
 `;
 
 const Card = styled.div`
